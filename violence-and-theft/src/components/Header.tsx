@@ -16,7 +16,7 @@ const Header: React.FC = () => {
     <header className="relative z-50 py-6">
       <nav className="container mx-auto px-6 flex justify-between items-center">
         <div className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
-          SecureVision AI
+          Muhafiz AI
         </div>
         
         <ul className="hidden md:flex space-x-8">

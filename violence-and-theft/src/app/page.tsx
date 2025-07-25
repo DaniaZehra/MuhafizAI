@@ -12,7 +12,7 @@ const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>SecureVision AI - Realtime Violence & Theft Detection</title>
+        <title>Muhafiz AI - Realtime Violence & Theft Detection</title>
         <meta name="description" content="Revolutionary AI-powered security solution that monitors CCTV footage in real-time" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

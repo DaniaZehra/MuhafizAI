@@ -8,7 +8,7 @@ import BenefitsSection from '../components/BenefitsSection';
 import Footer from '../components/Footer';
 import BackgroundParticles from '../components/BackgroundParticles';
 
-const HomePage: React.FC = () => {
+const Home: React.FC = () => {
   return (
     <>
       <Head>
@@ -31,3 +31,5 @@ const HomePage: React.FC = () => {
     </>
   );
 };
+
+export default Home;
